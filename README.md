@@ -1,3 +1,2 @@
 # Myjava
-This is about JAVA 
-Author-Khalid
+This is about JAVA  
